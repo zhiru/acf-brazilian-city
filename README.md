@@ -1,6 +1,8 @@
 # acf-brazilian-city
 Advanced Custom Fields: Brazilian City
 
+fork do [webfatorial/acf-brazilian-city](https://github.com/webfatorial/acf-brazilian-city)
+
 ## Descrição
 
 Plugin para wordpress que adiciona ao ACF a opção de cidades brasileiras provendo a seleção de Estado/Cidade.
