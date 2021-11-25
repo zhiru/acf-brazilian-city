@@ -60,6 +60,7 @@
                                     'name' => $real_stories_datasheet_field,
                                     'value' => $real_stories_datasheet_id,
                                     'ui' => 1,
+                                    'tags' => 1,
                                     'choices' => $real_stories_datasheet,
                                 ]);
                             ?>
@@ -79,6 +80,7 @@
                                     'name' => $supplier_field,
                                     'value' => $supplier_id,
                                     'ui' => 1,
+                                    'tags' => 1,
                                     'choices' => $suppliers,
                                 ]);
                             ?>
